@@ -1,5 +1,6 @@
-<img width="1440" alt="Screenshot 2024-02-22 at 12 59 34" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/e1cc9cac-ef1b-4482-9883-69257e75dc8c">
-<img width="1440" alt="Screenshot 2024-02-22 at 12 58 30" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/c8472bcb-d1b8-44f8-ad48-f1ea7dc2dc44">
-<img width="1440" alt="Screenshot 2024-02-22 at 12 58 19" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/3e1c6336-cde4-4058-9ad1-c9f7a7ccb28c">
-<img width="1439" alt="Screenshot 2024-02-22 at 12 57 28" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/168f0f53-85eb-4fe7-9b6d-64fe447539cf">
-<img width="1438" alt="Screenshot 2024-02-22 at 12 20 02" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/7ea87cf5-3ada-4ab8-b3b2-fbf9acfd1e26">
+<img width="1440" alt="Screenshot 2024-05-01 at 19 18 37" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/ec8c4870-c59a-4929-8d4b-222aada9b87a">
+<img width="1440" alt="Screenshot 2024-05-01 at 19 18 24" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/9152ff0f-1869-453b-ae0e-978cf1c88207">
+<img width="1440" alt="Screenshot 2024-05-01 at 19 17 56" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/866376da-cda6-4c5d-b39a-1edb6c20e643">
+<img width="1440" alt="Screenshot 2024-05-01 at 19 17 40" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/d2780b55-5683-4a28-9d6b-6d369fc38797">
+<img width="1440" alt="Screenshot 2024-05-01 at 19 17 24" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/bc3a16d1-85d8-4c35-8ddc-2a77bb32f874">
+<img width="1440" alt="Screenshot 2024-05-01 at 19 17 06" src="https://github.com/HesamFarjad/Pizza-Order-Online/assets/81914229/15deb8cb-61c6-4ef6-b0c0-d975d18803ab">
